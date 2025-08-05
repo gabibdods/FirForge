@@ -16,4 +16,4 @@
 
 # particular repository ignores:
 
-!main.vhdl
+!main.v
